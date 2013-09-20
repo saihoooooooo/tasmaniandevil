@@ -35,7 +35,7 @@ highlight SpecialKey    guifg=#F58484 guibg=#000000 gui=NONE
 highlight DiffAdd       guifg=#D7FFAF guibg=#5F875F gui=NONE
 highlight DiffChange    guifg=#D7D7FF guibg=#5F5F87 gui=NONE
 highlight DiffDelete    guifg=#2D2D2D guibg=#AA4444 gui=NONE
-highlight DiffText      guifg=#2D2D2D guibg=#8ABEB7 gui=NONE
+highlight DiffText      guifg=#2D2D2D guibg=#CC9999 gui=NONE
 
 " Syntax highlighting
 highlight Comment       guifg=#99968B gui=ITALIC
