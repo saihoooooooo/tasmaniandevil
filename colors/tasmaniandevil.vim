@@ -27,7 +27,7 @@ hi LineNr       guifg=#857B6F guibg=#000000 gui=NONE
 hi StatusLine   guifg=#F6F3E8 guibg=#444444 gui=ITALIC
 hi StatusLineNC guifg=#857B6F guibg=#444444 gui=NONE
 hi VertSplit    guifg=#444444 guibg=#444444 gui=NONE
-hi Folded       guifg=#A0A8B0 guibg=#333333 gui=NONE
+hi Folded       guifg=#A0A8B0 guibg=#111111 gui=NONE
 hi Title        guifg=#F6F3E8 guibg=NONE gui=BOLD
 hi Visual       guifg=#F6F3E8 guibg=#444444 gui=NONE
 hi SpecialKey   guifg=#F58484 guibg=#000000 gui=NONE
