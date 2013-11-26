@@ -48,6 +48,7 @@ highlight Function      guifg=#CAE682 gui=NONE
 highlight Type          guifg=#CAE682 gui=NONE
 highlight Statement     guifg=#8AC6F2 gui=NONE
 highlight Keyword       guifg=#8AC6F2 gui=NONE
+highlight Directory     guifg=#8AC6F2 gui=NONE
 highlight PreProc       guifg=#E5786D gui=NONE
 highlight Number        guifg=#E5786D gui=NONE
 highlight Special       guifg=#E7F6DA gui=NONE
